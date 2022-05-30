@@ -1,0 +1,8 @@
+## hiding files
+*.json
+*.pkl
+*.csv
+*.ipynb
+
+## hiding checkpoints
+**.ipynb_checkpoints
